@@ -57,6 +57,7 @@ excerpt: "TechCrunch Disrupt is the world’s leading authority in debuting revo
 
 	<p><img  alt="Battelfield winners" height="250" width="333" src="/images/identity/techcrunch/tech_crunch_winners.jpg" title="Battelfield winners"></p>
 
+</div>
 
 
 
