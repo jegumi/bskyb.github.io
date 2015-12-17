@@ -1,16 +1,19 @@
 ---
 layout: post
-title:  "Sky at Tech Crunck Disrupt London 2015"
+title:  "Sky at TechCrunch Disrupt London 2015"
 date:   2015-10-29 09:00:00
-author: "Jesus Gumiel"
+author: "Jesus Gumiel, Michael Tweed"
 categories: conferences
 image: /images/identity/techcrunch/tech_crunch_main.jpg
-excerpt: "TechCrunch Disrupt is the world’s leading authority in debuting revolutionary startups, introducing game-changing technologies, and discussing what’s top of mind for the tech industry’s key innovators. Disrupt gathers the best and brightest entrepreneurs, investors, hackers, and tech fans for on-stage interviews, the Startup Battlefield competition, a 24-hour Hackathon, Startup Alley, Hardware Alley, and After Parties. Sky had a stand where the company was promoted and was attracting talent to join our ranks, and some of our developers were there. Here is a brief summary of the event."
+excerpt: "TechCrunch Disrupt is the world's leading authority in debuting revolutionary startups, introducing game-changing technologies, and discussing what's top of mind for the tech industry's key innovators. Disrupt gathers the best and brightest entrepreneurs, investors, hackers, and tech fans for on-stage interviews, the Startup Battlefield competition, a 24-hour Hackathon, Startup Alley, Hardware Alley, and After Parties. Sky sponsored the event this year, and had a number of staff from across technology attend to promote the company. Here is a brief summary of the event."
 ---
-
 <div>
-    <p>On the 7th and 8th of December I attended to Tech Crunch Disrupt as part of the Sky team. It was a nice experience, even thinking that this is an event completely focused on startups.</p>
+	<h2>Introduction</h2>
+	<p>Across four days in early December, Sky were present at the Copper Box Arena in Stratford for TechCrunch Disrupt London 2015. The event was split into two halves, with a Hackathon running for 24 hours from Saturday afternoon onwards and a more traditional conference taking place on the Monday and Tuesday. Representatives from many areas of Sky Technology were present, and were able to listen to talks from industry leaders, make a lot of interesting connections and interact first-hand with a number of exciting startups from across Europe.</p>
+	<p>As the Hackathon started on Saturday, the first task was to try and convince teams to work on the Sky hack. One of the developers in the Content Discovery team, Kola Adewuyi, had created a set of learned actions that could be combined with our programme metadata and image archives, and we were looking for ingenious ways that these could be used to intelligently recommend new Sky shows to customers. The team that we judged had the best hack using this data would win four 4K Samsung TVs, as well as Now TV subscriptions. It quickly garnered a lot of interest, and we were soon talking to lots of developers about some really exciting ideas. 10 teams signed up to our hack, and they were soon stuck in to the code. The Hackathon ran for 24 hours, with pizza provided overnight- there were a lot of tired eyes the next morning, as well as long queues for coffee! As the teams were finishing up it was obvious that lots of really cool ideas had been put into practice, and our judging panel was assembled. Martin O'Hagan, an iOS developer on the judging panel, said that "some great Sky hacks came out of it, and I met lots of people interested in working for Sky".</p>
+	<p>Come Monday morning the arena had been transformed, with the floor now covered in stands for startups to showcase their products. As these companies were trying to pitch to anybody who walked past, a number of panels were also occurring behind a vast curtain in the arena: these included a very diverse set of speakers, ranging from Sir Alex Ferguson to Imogen Heap. Sky representatives alternated between exploring the conference and helping out on the stand, talking about the cool products being built and the technology behind them. There were devices showcasing Sky Go, Sky Store and Now TV, and lots of questions from people excited about Sky Q. The most popular part of the stand (and possibly of the conference!) had to be the Iron Throne, with hundreds of people getting their photo taken on it. There were also lots of entrants to the stand's Game Of Thrones-themed game, where you had to guess the location of the Iron Throne on an interactive map to try and win an Apple Watch. By the end of the conference a lot of interesting people had stopped by the stall to talk- Katharine Fitzpatrick, a Sky developer who had travelled down from Leeds to be present, said that "It was really inspiring to see so many innovative startups and meet people who were following their dreams".<p>
 
+	<h2>Personal View - Jesus Gumiel</h2>
     <p>On the 7th and 8th of December I attended to Tech Crunch Disrupt as part of the Sky team. It was a nice experience, even thinking that this is an event completely focused on startups.</p>
 
     <p><img  alt="Sky stand" height="250" width="333" src="/images/identity/techcrunch/tech_crunch_stand.jpg" title="Sky stand"></p>
@@ -26,7 +29,6 @@ excerpt: "TechCrunch Disrupt is the world’s leading authority in debuting revo
 	<p><img  alt="Startups alley" height="250" width="333" src="/images/identity/techcrunch/tech_crunch_sw_alley.jpg" title="Startups alley"></p>
 
 	<p>After the long queue for lunch, more than 40 minutes to take something to eat. In fact they change the time of the presentation after lunch, probably because not too many people had time to eat on time, it was turn to watch the startup battefield. 15 startups were fighthing for 4 places on the Tuesday final. The majority of them with an impressive story telling pitch and with a clear messages. But some of them with a weak business model that created too many doubts replying the questions from the judges (a mix of founders and investors). </p>
-
 	<p>The most appealing pitch was from the guys from Jukedeck. These guys not only have a great product, an AI music generator for movies, and a massive market, if not they make the audience clap as they were in a concert when one of the founders rap their pitch. Judges were impresive for the product and clearly these guys has a lot of chances to be in the selected 4 startups for the final. Max, a motorbike delivering service for Africa, was too comented too. Very dissapointing the demo of Ollie, not working, probably because of the bad connectivity in the place, a robot that interacts with the user should have waken up when the user was close, but we had to watch it on video.</p>
 
 	<p>Thierry Henry talking about the company he has invested, Grabyo, founder by an ex Sky employee closed a great day.</p>
@@ -38,26 +40,28 @@ excerpt: "TechCrunch Disrupt is the world’s leading authority in debuting revo
 	<p><img  alt="Hardware alley" height="250" width="333" src="/images/identity/techcrunch/tech_crunch_hw_alley.jpg" title="Hardware alley"></p>
 
 	<h3>Jukedeck</h3>
-
-	<p>Jukedeck is a platform that lets users create custom, cheap, royalty-free soundtracks for their videos and/or podcasts, all without any musical talent. Users simply choose a tempo, mood, style and the length of the track and Jukedeck does all the heavy lifting. Users can get their first five songs free each month, and then pay $7 per track, while larger businesses pay $15 per soundtrack. There is even a $150 fee for the exclusive copyright over a user’s song.</p>
+	<p>Jukedeck is a platform that lets users create custom, cheap, royalty-free soundtracks for their videos and/or podcasts, all without any musical talent. Users simply choose a tempo, mood, style and the length of the track and Jukedeck does all the heavy lifting. Users can get their first five songs free each month, and then pay $7 per track, while larger businesses pay $15 per soundtrack. There is even a $150 fee for the exclusive copyright over a user's song.</p>
 
 	<h3>Lystable</h3>
-
 	<p>Lystable helps companies manage the relationship between freelancers, vendors, and contractors, keeping track of which of these vendors or contractors has previously worked with the company, rankings of those freelancers, as well as offering messaging templates to reach out to workers quickly and painlessly. Lystable launched out of TechStars and has raised $3.5 million in seed funding.</p>
 
 	<h3>Max</h3>
-
 	<p>Max is a last-mile delivery service for urban Africa, giving merchants a way to have their goods delivered to customers within three hours of the order being placed.The platform uses an API that hooks into text messaging and other ordering platforms, with pricing based on distance instead of weight. Moreover, around 70 percent of MAX couriers are full-time employees on branded motorcycles, with extra, crowd-sourced couriers who are paid per delivery.</p>
 
 	<h3>Yoobic</h3>
-
 	<p>Yoobic provides consumer-facing brands with the opportunity to monitor exactly how their items get displayed in retail spaces, ranging from the local corner store to a big-box store like Best Buy. Brands can engage with store managers and corporate marketing teams to monitor the pricing, placement and promotions around their products. The company even delivers brands with a store database, offering info around store layouts, size, aisles, and endcaps.</p>
 
-	<a href="https://www.jukedeck.com/" class="external-link" rel="nofollow">Jukedeck</a> were the winners of this edition, and I’m sure we’ll start to listen more about them very soon.
+	<a href="https://www.jukedeck.com/" class="external-link" rel="nofollow">Jukedeck</a> were the winners of this edition, and I'm sure we'll start to listen more about them very soon.
 
 	<p><img  alt="Battelfield winners" height="250" width="333" src="/images/identity/techcrunch/tech_crunch_winners.jpg" title="Battelfield winners"></p>
 
+	<h2>Personal View - Michael Tweed</h2>
+
+	<p>Working in an office all day it's possible to end up somewhat removed from the global burgeoning tech scene. These four days, however, got me as close as is possible to the people and ideas that have the potential to dominate over the next few years. As I arrived to a long queue for the Hackathon on the Saturday- by the end of which I could barely feel my hands- you could sense the excitement among those waiting to get in. Once inside the first few hours were spent talking to developers, finding out what sort of ideas they had an encouraging them to work on the Sky hack as they formed themselves into teams. After the 24 hours had elapsed, it was amazing how much had been accomplished by the 76 teams present. Some teams were able to implement natural language processing, as well as integrating with a number of really cool APIs (including Sky's of course…). The winners can be seen <a href="http://techcrunch.com/2015/12/06/disrupt-london-2015-hackathon-winners">here</a>.</p>
+
+	<p>As I queued on the Monday morning (thankfully moving far quicker than on Saturday), there were a noticeably different set of attendees, with hoodies and backpacks replaced with press passes and briefcases. Walking towards the Sky stand, I was pitched by two startups before I'd even taken my coat off, which I think sums up the conference pretty well. I spent a lot of the next two days at the Sky stand, talking to people about the sort of stuff we build, and it was really interesting talking to people who had travelled from all over Europe (notably Denmark, Sweden and Germany), getting their opinions on Sky and the media industry at large in their respective countries. I was also able to attend a few of the panels, where I listened to successful startup founders and venture capitalists talk about their experiences and where they think the industry is heading. Any other spare time I had was spent walking around what was termed ‘Startup Alley', which was exactly as it sounds like, with lots of stalls packed closely together. There was an incredible range of products and technology on show, from app security services to smart showers to personalised drones to makeup apps.</p>
+
+	<p>A large chunk of the conference on Tuesday was dominated by the finals of the Startup Battlefield, with four of the leading startups from the conference pitching to a panel of expert judges to win the £30,000 prize. The eventual winners were Jukedeck, a company that provides ‘artificial intelligence music composition technology', and the runners-up were Metro Africa Xpress, an on-demand delivery service based in Nigeria. With this announcement the conference drew to a close, and I left with a plethora of business cards and ideas to explore. I have to thank Jenna Benedict and Carol McLaughlin, who organised Sky's sponsorship for the event and made sure the stand ran smoothly and successfully for the four days.</p>
+	
+	<iframe src="https://vine.co/v/i7F0uQj705A/embed/postcard" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 </div>
-
-
-
